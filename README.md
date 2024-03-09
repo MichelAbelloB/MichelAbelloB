@@ -41,7 +41,6 @@
 - 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
 <!--Intro end-->
 
-<td width="50%" align="center">
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
@@ -53,12 +52,6 @@
 | [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) | [![Portfolio-Site](https://img.shields.io/static/v1?label=Portfolio-Site&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/ashleymavericks/Portfolio-Site) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
-  </td>
-<td width="50%" align="center">
-  
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" />
-
-</td>
   
 <!--- stats (end) -->
 

@@ -74,7 +74,7 @@
 <div id="user-content-toc">
   <ul align="center">
   <a href="https://www.linkedin.com/in/michel-abello/" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 
   <a href="https://github.com/MichelAbelloB" target="_blank">
   <img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />

@@ -36,7 +36,8 @@
 - 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
 <!--Intro end-->
 
-
+<div id="user-content-toc">
+  <ul align="center">
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 |-|-|
@@ -46,7 +47,8 @@
 | [![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=4FA1EF&logo=kotlin&logoColor=FFFFFF)](https://kotlinlang.org/) | [![Hospital-Droid](https://img.shields.io/static/v1?label=Hospital-Droid&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/ashleymavericks/Hospital-Droid) [![Speaking-Geo-Assistant-Frontend](https://img.shields.io/static/v1?label=Speaking-Geo-Assistant-Frontend&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/ashleymavericks/Speaking-Geo-Assistant-Frontend) |
 | [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) | [![Portfolio-Site](https://img.shields.io/static/v1?label=Portfolio-Site&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/ashleymavericks/Portfolio-Site) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
-
+ </ul>
+</div>
   
 <!--- stats (end) -->
 

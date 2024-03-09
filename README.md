@@ -51,24 +51,9 @@
 | [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) | [![Portfolio-Site](https://img.shields.io/static/v1?label=Portfolio-Site&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/ashleymavericks/Portfolio-Site) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-  </td>
-
-<td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
-  </td>
-
-</tr>
-</table>
-<!--- stats (end) -->
 
 
 

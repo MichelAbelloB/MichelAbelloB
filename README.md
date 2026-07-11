@@ -105,26 +105,87 @@ I help turn manual, repetitive processes into automated, measurable, and reliabl
 
 <br>
 
-## Results
+## Impact — on both sides of the screen
+
+<sub>I don't just build automations — I also teach people how to think this way. Here's the impact from both seats.</sub>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 💼 As a builder
+
+<img src="https://img.shields.io/badge/⏱️_%5BX%5D_hrs%2Fmonth-recovered-6C63FF?style=for-the-badge"/>
+<br><br>
+<img src="https://img.shields.io/badge/🔁_%5BN%5D_processes-automated-6C63FF?style=for-the-badge"/>
+<br><br>
+<img src="https://img.shields.io/badge/✅_%5BX%5D%25_fewer-errors-6C63FF?style=for-the-badge"/>
+<br><br>
+<img src="https://img.shields.io/badge/📊_%5BN%5D_reports-live_dashboards-6C63FF?style=for-the-badge"/>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 🎓 As an instructor
+
+<img src="https://img.shields.io/badge/🧑‍🎓_%5BN%5D_students-taught-00C2A8?style=for-the-badge"/>
+<br><br>
+<img src="https://img.shields.io/badge/📚_%5BN%5D_courses%2Fworkshops-delivered-00C2A8?style=for-the-badge"/>
+<br><br>
+<img src="https://img.shields.io/badge/⭐_%5BX%5D%2F5_average-rating-00C2A8?style=for-the-badge"/>
+<br><br>
+<img src="https://img.shields.io/badge/🚀_%5BN%5D_students-now_working_in_data-00C2A8?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/⏱️_%5BX%5D_hours%2Fmonth-recovered-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🔁_%5BN%5D_processes-automated-00C2A8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/✅_%5BX%5D%25_fewer-errors-FF6584?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📊_%5BN%5D_reports-live_dashboards-6C63FF?style=for-the-badge"/>
+**Topics I teach:**
+<br>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Data%20Analysis-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Process%20Automation-00C2A8?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Excel%2FVBA-185C37?style=flat-square"/>
+<img src="https://img.shields.io/badge/-SQL-2563E8?style=flat-square&logo=postgresql&logoColor=white"/>
 
 <br><br>
-<sub>Replace the values in <code>[ ]</code> with your real numbers — that's what makes this section convincing.</sub>
+<sub>Replace every <code>[ ]</code> above with your real numbers — the builder side and the teaching side, side by side, is what makes this section stand out.</sub>
 </div>
 
 <br>
 
-## Tools
+## Tools, explained simply
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,r,git,github,aws,docker,mysql,postgresql,vscode,linux,html,js,css&perline=13" />
-</p>
+<sub>Not just a wall of icons — here's what each group is actually for.</sub>
+
+<br>
+
+<table>
+<tr>
+<td width="30%" valign="middle"><b>🐍 &nbsp;Languages</b><br><sub>What I write solutions in</sub></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=py,r,js&perline=3"/> &nbsp; <img src="https://img.shields.io/badge/VBA-185C37?style=flat-square&logo=visualbasic&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-2563E8?style=flat-square&logo=postgresql&logoColor=white"/></td>
+</tr>
+<tr>
+<td width="30%" valign="middle"><b>🗄️ &nbsp;Data & Databases</b><br><sub>Where data lives and how I query it</sub></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=2"/></td>
+</tr>
+<tr>
+<td width="30%" valign="middle"><b>⚙️ &nbsp;Automation</b><br><sub>How I turn manual work into bots</sub></td>
+<td valign="middle"><img src="https://img.shields.io/badge/Automation%20Anywhere-RPA-6C63FF?style=flat-square"/> <img src="https://img.shields.io/badge/VBA%20Macros-185C37?style=flat-square"/> <img src="https://img.shields.io/badge/JS%20Bots-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></td>
+</tr>
+<tr>
+<td width="30%" valign="middle"><b>☁️ &nbsp;Cloud & Infrastructure</b><br><sub>Where automations run reliably</sub></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=aws,docker,linux&perline=3"/></td>
+</tr>
+<tr>
+<td width="30%" valign="middle"><b>🛠️ &nbsp;Everyday Tools</b><br><sub>What's open on my screen daily</sub></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3"/></td>
+</tr>
+</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00C2A8&height=3" />
 

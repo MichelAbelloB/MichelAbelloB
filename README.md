@@ -1,184 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2A8&height=230&section=header&text=Michel%20Abello&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Data%20Science%20·%20Automatización%20·%20Mejora%20de%20Procesos&descAlignY=54&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2A8&height=230&section=header&text=Michel%20Abello&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Data%20Science%20·%20Process%20Automation%20·%20AI-Driven%20Workflows&descAlignY=54&descSize=17"/>
 
-<sub>SELECT LANGUAGE</sub>
-<br>
-<a href="#-español"><img src="https://img.shields.io/badge/🇪🇸-Español-6C63FF?style=for-the-badge"/></a>
-<a href="#-english"><img src="https://img.shields.io/badge/🇬🇧-English-00C2A8?style=for-the-badge"/></a>
-
-</div>
-
-<br>
-
----
-
-<a name="-español"></a>
-<details open>
-<summary><h2>🇪🇸 &nbsp;Versión en Español &nbsp;(clic para colapsar)</h2></summary>
-
-<div align="center">
-<p>
-<a href="#quién-soy"><img src="https://img.shields.io/badge/🏠_Inicio-6C63FF?style=for-the-badge&logoColor=white"/></a>
-<a href="#en-qué-puedo-ayudarte"><img src="https://img.shields.io/badge/💡_Servicios-6C63FF?style=for-the-badge&logoColor=white"/></a>
-<a href="#resultados"><img src="https://img.shields.io/badge/📊_Resultados-00C2A8?style=for-the-badge&logoColor=white"/></a>
-<a href="#proyectos"><img src="https://img.shields.io/badge/🚀_Proyectos-00C2A8?style=for-the-badge&logoColor=white"/></a>
-<a href="#hablemos"><img src="https://img.shields.io/badge/📬_Contacto-FF6584?style=for-the-badge&logoColor=white"/></a>
-</p>
-</div>
-
-### Quién soy
-
-<table>
-<tr>
-<td width="70%" valign="middle">
-
-Ayudo a que los procesos que hoy se hacen "a mano" pasen a ser automáticos, medibles y confiables — combinando análisis de datos con automatización. Mi trabajo va desde entender un problema, hasta construir la solución y dejarla funcionando sola.
-
-</td>
-<td width="30%" align="center">
-<img src="https://skillicons.dev/icons?i=py,r,aws&perline=3" />
-</td>
-</tr>
-</table>
-
-### En qué puedo ayudarte
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 📊
-**Data Science**
-<br>
-<sub>Transformo datos dispersos en información clara para tomar mejores decisiones.</sub>
-</td>
-<td align="center" width="33%">
-
-### ⚙️
-**Automatización**
-<br>
-<sub>Convierto tareas repetitivas y manuales en flujos automáticos, con menos errores.</sub>
-</td>
-<td align="center" width="33%">
-
-### 🔁
-**Mejora continua**
-<br>
-<sub>Detecto cuellos de botella y rediseño procesos para que sean más simples y eficientes.</sub>
-</td>
-</tr>
-</table>
-
-### Resultados
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/⏱️_%5BX%5D_horas%2Fmes-recuperadas-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🔁_%5BN%5D_procesos-automatizados-00C2A8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/✅_%5BX%5D%25_menos-errores-FF6584?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📊_%5BN%5D_reportes-en_vivo-6C63FF?style=for-the-badge"/>
-
-<br><br>
-<sub>Reemplaza los valores entre <code>[ ]</code> por tus cifras reales.</sub>
-</div>
-
-### Herramientas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,r,git,github,aws,docker,mysql,postgresql,vscode,linux,html,js,css&perline=13" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00C2A8&height=3" />
-
-### Proyectos
-
-<p align="center"><sub>Toca cualquier tarjeta para abrir el repositorio</sub></p>
-
-<details open>
-<summary><b>📊 &nbsp;Data Science & Python</b></summary>
-<br>
-<p align="center">
-<a href="https://github.com/MichelAbelloB/Data_Viewer_Python"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Data_Viewer_Python&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/Agente_Experto_en_Documentos_PDF"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Agente_Experto_en_Documentos_PDF&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/BVC_Ecopetrol"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=BVC_Ecopetrol&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/Calculadora_Python"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Calculadora_Python&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/QR_App"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=QR_App&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/Youtube_Link"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Youtube_Link&theme=holi" /></a>
-</p>
-</details>
-
-<details>
-<summary><b>⚙️ &nbsp;Automatización (VBA / RPA)</b></summary>
-<br>
-<p align="center">
-<a href="https://github.com/MichelAbelloB/Alianza_Service"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Alianza_Service&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/Creacion_Formulario_VBA"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Creacion_Formulario_VBA&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/Vademecum_wtw"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Vademecum_wtw&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/Contrato_Propiedad_Horizontal"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Contrato_Propiedad_Horizontal&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/Centros_Cadena_VBA"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Centros_Cadena_VBA&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/Verificar_Valores_VBA"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Verificar_Valores_VBA&theme=holi" /></a>
-</p>
-</details>
-
-<details>
-<summary><b>📈 &nbsp;Análisis de datos (SQL / R / Jupyter)</b></summary>
-<br>
-<p align="center">
-<a href="https://github.com/MichelAbelloB/Analisis_de_ventas-CRM_JN"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Analisis_de_ventas-CRM_JN&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/Caso_Adidads_JN"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Caso_Adidads_JN&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/Avocado"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Avocado&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/Tablas_temporales"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Tablas_temporales&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/Ejercicio_Mujeres_Mayores_35a-os"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Ejercicio_Mujeres_Mayores_35a-os&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/Material_R_JN"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Material_R_JN&theme=holi" /></a>
-</p>
-</details>
-
-<details>
-<summary><b>🌐 &nbsp;Web (HTML / CSS / JS)</b></summary>
-<br>
-<p align="center">
-<a href="https://github.com/MichelAbelloB/My_Web_Site"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=My_Web_Site&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/Aseo_EcoBambu"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Aseo_EcoBambu&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/Wissen"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Wissen&theme=holi" /></a>
-</p>
-</details>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00C2A8&height=3" />
-
-### Hablemos
-
-<div align="center">
-
-¿Tienes un proceso que te quita tiempo o datos que no sabes cómo aprovechar? Conversemos.
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/michel-abello/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Michel%20Abello-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/MichelAbelloB" target="_blank"><img src="https://img.shields.io/badge/GitHub-MichelAbelloB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:michelabello78@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Escríbeme-00C2A8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-</div>
-
-</details>
-
----
-
-<a name="-english"></a>
-<details>
-<summary><h2>🇬🇧 &nbsp;English Version &nbsp;(click to expand)</h2></summary>
-
-<div align="center">
 <p>
 <a href="#who-i-am"><img src="https://img.shields.io/badge/🏠_Home-6C63FF?style=for-the-badge&logoColor=white"/></a>
 <a href="#how-i-can-help"><img src="https://img.shields.io/badge/💡_Services-6C63FF?style=for-the-badge&logoColor=white"/></a>
+<a href="#where-im-headed"><img src="https://img.shields.io/badge/🤖_What's_Next-FF6584?style=for-the-badge&logoColor=white"/></a>
 <a href="#results"><img src="https://img.shields.io/badge/📊_Results-00C2A8?style=for-the-badge&logoColor=white"/></a>
 <a href="#projects"><img src="https://img.shields.io/badge/🚀_Projects-00C2A8?style=for-the-badge&logoColor=white"/></a>
 <a href="#lets-talk"><img src="https://img.shields.io/badge/📬_Contact-FF6584?style=for-the-badge&logoColor=white"/></a>
 </p>
+
 </div>
 
-### Who I am
+<br>
+
+## Who I am
 
 <table>
 <tr>
@@ -193,7 +30,9 @@ I help turn manual, repetitive processes into automated, measurable, and reliabl
 </tr>
 </table>
 
-### How I can help
+<br>
+
+## How I can help
 
 <table>
 <tr>
@@ -221,7 +60,52 @@ I help turn manual, repetitive processes into automated, measurable, and reliabl
 </tr>
 </table>
 
-### Results
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00C2A8&height=3" />
+
+## Where I'm headed
+
+<sub>The automation space is shifting fast — here's the part of that shift I'm building toward.</sub>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 From rule-based bots to AI agents**
+<br>
+<sub>Traditional RPA follows fixed steps. The next layer is agents that read a PDF, a form, or a mailbox and *decide* what to do — that's the idea behind my document-intelligence agent project.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**🧠 LLMs inside the pipeline, not just chat**
+<br>
+<sub>Using language models as a processing step — classifying, extracting, and validating unstructured data — instead of only as a chatbot on top.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔍 Process mining over guesswork**
+<br>
+<sub>Measuring where time actually goes before automating it, so effort goes to the bottleneck that matters, not the one that's most visible.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**☁️ Cloud-native by default**
+<br>
+<sub>Moving automations off a single machine and into AWS, so they're reliable, monitorable, and don't depend on someone's laptop staying on.</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Results
 
 <div align="center">
 
@@ -231,10 +115,12 @@ I help turn manual, repetitive processes into automated, measurable, and reliabl
 <img src="https://img.shields.io/badge/📊_%5BN%5D_reports-live_dashboards-6C63FF?style=for-the-badge"/>
 
 <br><br>
-<sub>Replace the values in <code>[ ]</code> with your real numbers.</sub>
+<sub>Replace the values in <code>[ ]</code> with your real numbers — that's what makes this section convincing.</sub>
 </div>
 
-### Tools
+<br>
+
+## Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,r,git,github,aws,docker,mysql,postgresql,vscode,linux,html,js,css&perline=13" />
@@ -242,62 +128,78 @@ I help turn manual, repetitive processes into automated, measurable, and reliabl
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00C2A8&height=3" />
 
-### Projects
+<br>
 
-<p align="center"><sub>Tap any card to open the repository</sub></p>
+## Projects
+
+<p align="center"><sub>Grouped by domain — click any name to open the repository</sub></p>
 
 <details open>
 <summary><b>📊 &nbsp;Data Science & Python</b></summary>
 <br>
-<p align="center">
-<a href="https://github.com/MichelAbelloB/Data_Viewer_Python"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Data_Viewer_Python&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/Agente_Experto_en_Documentos_PDF"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Agente_Experto_en_Documentos_PDF&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/BVC_Ecopetrol"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=BVC_Ecopetrol&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/Calculadora_Python"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Calculadora_Python&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/QR_App"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=QR_App&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/Youtube_Link"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Youtube_Link&theme=holi" /></a>
-</p>
+
+<table>
+<tr><th align="left">Project</th><th align="left">Stack</th><th></th></tr>
+<tr><td><b>Data Viewer Python</b></td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td><td><a href="https://github.com/MichelAbelloB/Data_Viewer_Python"><img src="https://img.shields.io/badge/View_Repo-→-6C63FF?style=flat-square"/></a></td></tr>
+<tr><td><b>Agente Experto en Documentos PDF</b></td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/AI_Agent-FF6584?style=flat-square"/></td><td><a href="https://github.com/MichelAbelloB/Agente_Experto_en_Documentos_PDF"><img src="https://img.shields.io/badge/View_Repo-→-6C63FF?style=flat-square"/></a></td></tr>
+<tr><td><b>BVC Ecopetrol</b></td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td><td><a href="https://github.com/MichelAbelloB/BVC_Ecopetrol"><img src="https://img.shields.io/badge/View_Repo-→-6C63FF?style=flat-square"/></a></td></tr>
+<tr><td><b>Calculadora Python</b></td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td><td><a href="https://github.com/MichelAbelloB/Calculadora_Python"><img src="https://img.shields.io/badge/View_Repo-→-6C63FF?style=flat-square"/></a></td></tr>
+<tr><td><b>QR App</b></td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td><td><a href="https://github.com/MichelAbelloB/QR_App"><img src="https://img.shields.io/badge/View_Repo-→-6C63FF?style=flat-square"/></a></td></tr>
+<tr><td><b>Youtube Link</b></td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td><td><a href="https://github.com/MichelAbelloB/Youtube_Link"><img src="https://img.shields.io/badge/View_Repo-→-6C63FF?style=flat-square"/></a></td></tr>
+</table>
+
 </details>
 
 <details>
 <summary><b>⚙️ &nbsp;Automation (VBA / RPA)</b></summary>
 <br>
-<p align="center">
-<a href="https://github.com/MichelAbelloB/Alianza_Service"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Alianza_Service&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/Creacion_Formulario_VBA"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Creacion_Formulario_VBA&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/Vademecum_wtw"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Vademecum_wtw&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/Contrato_Propiedad_Horizontal"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Contrato_Propiedad_Horizontal&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/Centros_Cadena_VBA"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Centros_Cadena_VBA&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/Verificar_Valores_VBA"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Verificar_Valores_VBA&theme=holi" /></a>
-</p>
+
+<table>
+<tr><th align="left">Project</th><th align="left">Stack</th><th></th></tr>
+<tr><td><b>Alianza Service</b></td><td><img src="https://img.shields.io/badge/VBA-185C37?style=flat-square&logo=visualbasic&logoColor=white"/></td><td><a href="https://github.com/MichelAbelloB/Alianza_Service"><img src="https://img.shields.io/badge/View_Repo-→-00C2A8?style=flat-square"/></a></td></tr>
+<tr><td><b>Creación Formulario VBA</b></td><td><img src="https://img.shields.io/badge/VBA-185C37?style=flat-square&logo=visualbasic&logoColor=white"/></td><td><a href="https://github.com/MichelAbelloB/Creacion_Formulario_VBA"><img src="https://img.shields.io/badge/View_Repo-→-00C2A8?style=flat-square"/></a></td></tr>
+<tr><td><b>Vademecum WTW</b></td><td><img src="https://img.shields.io/badge/VBA-185C37?style=flat-square&logo=visualbasic&logoColor=white"/></td><td><a href="https://github.com/MichelAbelloB/Vademecum_wtw"><img src="https://img.shields.io/badge/View_Repo-→-00C2A8?style=flat-square"/></a></td></tr>
+<tr><td><b>Contrato Propiedad Horizontal</b></td><td><img src="https://img.shields.io/badge/VBA-185C37?style=flat-square&logo=visualbasic&logoColor=white"/></td><td><a href="https://github.com/MichelAbelloB/Contrato_Propiedad_Horizontal"><img src="https://img.shields.io/badge/View_Repo-→-00C2A8?style=flat-square"/></a></td></tr>
+<tr><td><b>Centros Cadena VBA</b></td><td><img src="https://img.shields.io/badge/VBA-185C37?style=flat-square&logo=visualbasic&logoColor=white"/></td><td><a href="https://github.com/MichelAbelloB/Centros_Cadena_VBA"><img src="https://img.shields.io/badge/View_Repo-→-00C2A8?style=flat-square"/></a></td></tr>
+<tr><td><b>Verificar Valores VBA</b></td><td><img src="https://img.shields.io/badge/VBA-185C37?style=flat-square&logo=visualbasic&logoColor=white"/></td><td><a href="https://github.com/MichelAbelloB/Verificar_Valores_VBA"><img src="https://img.shields.io/badge/View_Repo-→-00C2A8?style=flat-square"/></a></td></tr>
+</table>
+
 </details>
 
 <details>
 <summary><b>📈 &nbsp;Data Analysis (SQL / R / Jupyter)</b></summary>
 <br>
-<p align="center">
-<a href="https://github.com/MichelAbelloB/Analisis_de_ventas-CRM_JN"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Analisis_de_ventas-CRM_JN&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/Caso_Adidads_JN"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Caso_Adidads_JN&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/Avocado"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Avocado&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/Tablas_temporales"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Tablas_temporales&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/Ejercicio_Mujeres_Mayores_35a-os"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Ejercicio_Mujeres_Mayores_35a-os&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/Material_R_JN"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Material_R_JN&theme=holi" /></a>
-</p>
+
+<table>
+<tr><th align="left">Project</th><th align="left">Stack</th><th></th></tr>
+<tr><td><b>Sales Analysis — CRM</b></td><td><img src="https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white"/></td><td><a href="https://github.com/MichelAbelloB/Analisis_de_ventas-CRM_JN"><img src="https://img.shields.io/badge/View_Repo-→-FF6584?style=flat-square"/></a></td></tr>
+<tr><td><b>Adidas Case Study</b></td><td><img src="https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white"/></td><td><a href="https://github.com/MichelAbelloB/Caso_Adidads_JN"><img src="https://img.shields.io/badge/View_Repo-→-FF6584?style=flat-square"/></a></td></tr>
+<tr><td><b>Avocado</b></td><td><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/></td><td><a href="https://github.com/MichelAbelloB/Avocado"><img src="https://img.shields.io/badge/View_Repo-→-FF6584?style=flat-square"/></a></td></tr>
+<tr><td><b>Tablas Temporales</b></td><td><img src="https://img.shields.io/badge/SQL-2563E8?style=flat-square&logo=postgresql&logoColor=white"/></td><td><a href="https://github.com/MichelAbelloB/Tablas_temporales"><img src="https://img.shields.io/badge/View_Repo-→-FF6584?style=flat-square"/></a></td></tr>
+<tr><td><b>Women Over 35 — Exercise</b></td><td><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/></td><td><a href="https://github.com/MichelAbelloB/Ejercicio_Mujeres_Mayores_35a-os"><img src="https://img.shields.io/badge/View_Repo-→-FF6584?style=flat-square"/></a></td></tr>
+<tr><td><b>R Material</b></td><td><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/></td><td><a href="https://github.com/MichelAbelloB/Material_R_JN"><img src="https://img.shields.io/badge/View_Repo-→-FF6584?style=flat-square"/></a></td></tr>
+</table>
+
 </details>
 
 <details>
 <summary><b>🌐 &nbsp;Web (HTML / CSS / JS)</b></summary>
 <br>
-<p align="center">
-<a href="https://github.com/MichelAbelloB/My_Web_Site"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=My_Web_Site&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/Aseo_EcoBambu"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Aseo_EcoBambu&theme=holi" /></a>
-<a href="https://github.com/MichelAbelloB/Wissen"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelAbelloB&repo=Wissen&theme=holi" /></a>
-</p>
+
+<table>
+<tr><th align="left">Project</th><th align="left">Stack</th><th></th></tr>
+<tr><td><b>My Web Site</b></td><td><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></td><td><a href="https://github.com/MichelAbelloB/My_Web_Site"><img src="https://img.shields.io/badge/View_Repo-→-6C63FF?style=flat-square"/></a></td></tr>
+<tr><td><b>Aseo EcoBambú</b></td><td><img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></td><td><a href="https://github.com/MichelAbelloB/Aseo_EcoBambu"><img src="https://img.shields.io/badge/View_Repo-→-6C63FF?style=flat-square"/></a></td></tr>
+<tr><td><b>Wissen</b></td><td><img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></td><td><a href="https://github.com/MichelAbelloB/Wissen"><img src="https://img.shields.io/badge/View_Repo-→-6C63FF?style=flat-square"/></a></td></tr>
+</table>
+
 </details>
+
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00C2A8&height=3" />
 
-### Let's talk
+## Let's talk
 
 <div align="center">
 
@@ -310,8 +212,6 @@ Got a process eating your time, or data you don't know how to use yet? Let's tal
 <a href="mailto:michelabello78@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Write_to_me-00C2A8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
-
-</details>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2A8,100:6C63FF&height=120&section=footer"/>
 

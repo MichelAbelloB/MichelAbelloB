@@ -118,23 +118,9 @@ I help turn manual, repetitive processes into automated, measurable, and reliabl
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MichelAbelloB&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=6C63FF&icon_color=00C2A8&text_color=888888&hide=issues" alt="live GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MichelAbelloB&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=FFFFFF&title_color=6C63FF&icon_color=00C2A8&text_color=333333&hide=issues" alt="live GitHub stats"/>
 
 </div>
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="100%">
-
-### 🎓 Also an educator
-
-<sub>Beyond building, I teach <b>Python</b>, <b>Data Analysis</b>, and <b>Process Automation</b> — helping others learn the same way of thinking that shapes the projects below.</sub>
-
-</td>
-</tr>
-</table>
 
 <br>
 
@@ -153,10 +139,22 @@ I help turn manual, repetitive processes into automated, measurable, and reliabl
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/VBA-185C37?style=flat-square&logo=visualbasic&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-2563E8?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </td>
 </tr>
 <tr>
-<td width="30%" valign="middle"><b>🗄️ &nbsp;Data & Databases</b><br><sub>Where data lives and how I query it</sub></td>
+<td width="30%" valign="middle"><b>📊 &nbsp;Data & Analysis</b><br><sub>How I explore and shape data</sub></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+</td>
+</tr>
+<tr>
+<td width="30%" valign="middle"><b>🗄️ &nbsp;Databases</b><br><sub>Where data lives and how I query it</sub></td>
 <td valign="middle">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -168,6 +166,7 @@ I help turn manual, repetitive processes into automated, measurable, and reliabl
 <img src="https://img.shields.io/badge/Automation%20Anywhere-RPA-6C63FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/VBA%20Macros-185C37?style=flat-square"/>
 <img src="https://img.shields.io/badge/JS%20Bots-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 </td>
 </tr>
 <tr>
@@ -187,6 +186,7 @@ I help turn manual, repetitive processes into automated, measurable, and reliabl
 </td>
 </tr>
 </table>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00C2A8&height=3" />
 

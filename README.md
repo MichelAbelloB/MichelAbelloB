@@ -105,56 +105,36 @@ I help turn manual, repetitive processes into automated, measurable, and reliabl
 
 <br>
 
-## Impact — on both sides of the screen
+## Impact — live, not a promise
 
-<sub>I don't just build automations — I also teach people how to think this way. Here's the impact from both seats.</sub>
+<sub>No numbers to remember to update — this pulls straight from GitHub every time someone opens this page.</sub>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/MichelAbelloB?style=for-the-badge&color=6C63FF&label=FOLLOWERS&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/github/stars/MichelAbelloB?style=for-the-badge&color=00C2A8&label=STARS%20EARNED&logo=github&logoColor=white&affiliations=OWNER"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=MichelAbelloB&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=6C63FF&icon_color=00C2A8&text_color=888888&hide=issues" alt="live GitHub stats"/>
+
+</div>
 
 <br>
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center">
+<td align="center" width="100%">
 
-### 💼 As a builder
+### 🎓 Also an educator
 
-<img src="https://img.shields.io/badge/⏱️_%5BX%5D_hrs%2Fmonth-recovered-6C63FF?style=for-the-badge"/>
-<br><br>
-<img src="https://img.shields.io/badge/🔁_%5BN%5D_processes-automated-6C63FF?style=for-the-badge"/>
-<br><br>
-<img src="https://img.shields.io/badge/✅_%5BX%5D%25_fewer-errors-6C63FF?style=for-the-badge"/>
-<br><br>
-<img src="https://img.shields.io/badge/📊_%5BN%5D_reports-live_dashboards-6C63FF?style=for-the-badge"/>
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### 🎓 As an instructor
-
-<img src="https://img.shields.io/badge/🧑‍🎓_%5BN%5D_students-taught-00C2A8?style=for-the-badge"/>
-<br><br>
-<img src="https://img.shields.io/badge/📚_%5BN%5D_courses%2Fworkshops-delivered-00C2A8?style=for-the-badge"/>
-<br><br>
-<img src="https://img.shields.io/badge/⭐_%5BX%5D%2F5_average-rating-00C2A8?style=for-the-badge"/>
-<br><br>
-<img src="https://img.shields.io/badge/🚀_%5BN%5D_students-now_working_in_data-00C2A8?style=for-the-badge"/>
+<sub>Beyond building, I teach <b>Python</b>, <b>Data Analysis</b>, and <b>Process Automation</b> — helping others learn the same way of thinking that shapes the projects below.</sub>
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-**Topics I teach:**
-<br>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Data%20Analysis-6C63FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Process%20Automation-00C2A8?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Excel%2FVBA-185C37?style=flat-square"/>
-<img src="https://img.shields.io/badge/-SQL-2563E8?style=flat-square&logo=postgresql&logoColor=white"/>
-
-<br><br>
-<sub>Replace every <code>[ ]</code> above with your real numbers — the builder side and the teaching side, side by side, is what makes this section stand out.</sub>
-</div>
 
 <br>
 
@@ -167,23 +147,44 @@ I help turn manual, repetitive processes into automated, measurable, and reliabl
 <table>
 <tr>
 <td width="30%" valign="middle"><b>🐍 &nbsp;Languages</b><br><sub>What I write solutions in</sub></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=py,r,js&perline=3"/> &nbsp; <img src="https://img.shields.io/badge/VBA-185C37?style=flat-square&logo=visualbasic&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-2563E8?style=flat-square&logo=postgresql&logoColor=white"/></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/VBA-185C37?style=flat-square&logo=visualbasic&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-2563E8?style=flat-square&logo=postgresql&logoColor=white"/>
+</td>
 </tr>
 <tr>
 <td width="30%" valign="middle"><b>🗄️ &nbsp;Data & Databases</b><br><sub>Where data lives and how I query it</sub></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=2"/></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+</td>
 </tr>
 <tr>
 <td width="30%" valign="middle"><b>⚙️ &nbsp;Automation</b><br><sub>How I turn manual work into bots</sub></td>
-<td valign="middle"><img src="https://img.shields.io/badge/Automation%20Anywhere-RPA-6C63FF?style=flat-square"/> <img src="https://img.shields.io/badge/VBA%20Macros-185C37?style=flat-square"/> <img src="https://img.shields.io/badge/JS%20Bots-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/Automation%20Anywhere-RPA-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/VBA%20Macros-185C37?style=flat-square"/>
+<img src="https://img.shields.io/badge/JS%20Bots-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</td>
 </tr>
 <tr>
 <td width="30%" valign="middle"><b>☁️ &nbsp;Cloud & Infrastructure</b><br><sub>Where automations run reliably</sub></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=aws,docker,linux&perline=3"/></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+</td>
 </tr>
 <tr>
 <td width="30%" valign="middle"><b>🛠️ &nbsp;Everyday Tools</b><br><sub>What's open on my screen daily</sub></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3"/></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+</td>
 </tr>
 </table>
 
@@ -279,3 +280,4 @@ Got a process eating your time, or data you don't know how to use yet? Let's tal
 <!---
 MichelAbelloB/MichelAbelloB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
+

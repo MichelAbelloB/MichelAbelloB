@@ -123,7 +123,7 @@ I work across the full stack that turns messy reality into working systems — d
 <div align="center">
 
 <img src="https://img.shields.io/github/followers/MichelAbelloB?style=for-the-badge&color=6C63FF&label=FOLLOWERS&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMichelAbelloB&query=%24.public_repos&label=PUBLIC%20REPOS&color=00C2A8&style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/github/stars/MichelAbelloB?style=for-the-badge&color=00C2A8&label=STARS%20EARNED&logo=github&logoColor=white&affiliations=OWNER"/>
 <img src="https://komarev.com/ghpvc/?username=MichelAbelloB&label=PROFILE%20VIEWS&color=FF6584&style=for-the-badge"/>
 
 </div>
@@ -210,6 +210,14 @@ I work across the full stack that turns messy reality into working systems — d
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LM%20Studio-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td width="30%" valign="middle"><b>🕸️ &nbsp;Multi-Agent Systems</b><br><sub>How I build and coordinate teams of AI agents</sub></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/OpenClaw-FF6584?style=flat-square"/>
 </td>
 </tr>
 </table>
@@ -331,4 +339,3 @@ I work across the full stack that turns messy reality into working systems — d
 <!---
 MichelAbelloB/MichelAbelloB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
-

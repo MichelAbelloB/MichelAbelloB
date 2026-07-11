@@ -218,6 +218,9 @@ I work across the full stack that turns messy reality into working systems — d
 <td width="30%" valign="middle"><b>🕸️ &nbsp;Multi-Agent Systems</b><br><sub>How I build and coordinate teams of AI agents</sub></td>
 <td valign="middle">
 <img src="https://img.shields.io/badge/OpenClaw-FF6584?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrewAI-FF5A1F?style=flat-square"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
 </td>
 </tr>
 </table>

@@ -106,7 +106,7 @@ I work across the full stack that turns messy reality into working systems — d
 
 **☁️ Cloud-native by default**
 <br>
-<sub>Moving automations off a single machine and into AWS, so they're reliable, monitorable, and don't depend on someone's laptop staying on.</sub>
+<sub>Moving automations off a single machine and into the cloud (AWS/GCP), so they're reliable, monitorable, and don't depend on someone's laptop staying on.</sub>
 
 </td>
 </tr>
@@ -179,6 +179,9 @@ I work across the full stack that turns messy reality into working systems — d
 <td width="30%" valign="middle"><b>⚙️ &nbsp;Automation</b><br><sub>How I turn manual work into bots</sub></td>
 <td valign="middle">
 <img src="https://img.shields.io/badge/Automation%20Anywhere-RPA-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/VBA%20Macros-185C37?style=flat-square"/>
 <img src="https://img.shields.io/badge/JS%20Bots-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </td>
@@ -187,6 +190,7 @@ I work across the full stack that turns messy reality into working systems — d
 <td width="30%" valign="middle"><b>☁️ &nbsp;Cloud & Infrastructure</b><br><sub>Where automations run reliably</sub></td>
 <td valign="middle">
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </td>
@@ -318,3 +322,4 @@ I work across the full stack that turns messy reality into working systems — d
 <!---
 MichelAbelloB/MichelAbelloB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
+
